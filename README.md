@@ -16,7 +16,7 @@ The output is formatted with the offset, 16 hexadecimal bytes per line, and the 
 
 -----
 
-## Building the Project
+## Building
 
 ### Prerequisites
 
